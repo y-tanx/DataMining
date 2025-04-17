@@ -1,0 +1,36 @@
+date,visitor,home,home_win_predict,
+Thu Apr 10 2025,New York Knicks,Detroit Pistons,0,1
+Thu Apr 10 2025,Cleveland Cavaliers,Indiana Pacers,0,1
+Thu Apr 10 2025,Atlanta Hawks,Brooklyn Nets,0,0
+Thu Apr 10 2025,New Orleans Pelicans,Milwaukee Bucks,1,1
+Thu Apr 10 2025,Minnesota Timberwolves,Memphis Grizzlies,0,0
+Fri Apr 11 2025,Milwaukee Bucks,Detroit Pistons,0,0
+Fri Apr 11 2025,Orlando Magic,Indiana Pacers,1,0
+Fri Apr 11 2025,Atlanta Hawks,Philadelphia 76ers,0,0
+Fri Apr 11 2025,Charlotte Hornets,Boston Celtics,1,1
+Fri Apr 11 2025,Cleveland Cavaliers,New York Knicks,0,0
+Fri Apr 11 2025,Washington Wizards,Chicago Bulls,1,1
+Fri Apr 11 2025,Miami Heat,New Orleans Pelicans,0,0
+Fri Apr 11 2025,Toronto Raptors,Dallas Mavericks,1,1
+Fri Apr 11 2025,Memphis Grizzlies,Denver Nuggets,1,1
+Fri Apr 11 2025,Brooklyn Nets,Minnesota Timberwolves,1,1
+Fri Apr 11 2025,Oklahoma City Thunder,Utah Jazz,0,0
+Fri Apr 11 2025,San Antonio Spurs,Phoenix Suns,1,1
+Fri Apr 11 2025,Golden State Warriors,Portland Trail Blazers,0,0
+Fri Apr 11 2025,Los Angeles Clippers,Sacramento Kings,1,0
+Fri Apr 11 2025,Houston Rockets,Los Angeles Lakers,1,1
+Sun Apr 13 2025,Orlando Magic,Atlanta Hawks,1,
+Sun Apr 13 2025,Charlotte Hornets,Boston Celtics,1,
+Sun Apr 13 2025,New York Knicks,Brooklyn Nets,0,
+Sun Apr 13 2025,Indiana Pacers,Cleveland Cavaliers,1,
+Sun Apr 13 2025,Washington Wizards,Miami Heat,1,
+Sun Apr 13 2025,Detroit Pistons,Milwaukee Bucks,1,
+Sun Apr 13 2025,Chicago Bulls,Philadelphia 76ers,1,
+Sun Apr 13 2025,Los Angeles Clippers,Golden State Warriors,1,
+Sun Apr 13 2025,Denver Nuggets,Houston Rockets,0,
+Sun Apr 13 2025,Dallas Mavericks,Memphis Grizzlies,1,
+Sun Apr 13 2025,Utah Jazz,Minnesota Timberwolves,1,
+Sun Apr 13 2025,Oklahoma City Thunder,New Orleans Pelicans,0,
+Sun Apr 13 2025,Los Angeles Lakers,Portland Trail Blazers,0,
+Sun Apr 13 2025,Phoenix Suns,Sacramento Kings,1,
+Sun Apr 13 2025,Toronto Raptors,San Antonio Spurs,1,

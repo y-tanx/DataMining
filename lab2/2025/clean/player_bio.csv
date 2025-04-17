@@ -1,0 +1,563 @@
+age,player_height_inches,player_weight,team
+24.0,78,179.0,Toronto Raptors
+25.0,76,190.0,Milwaukee Bucks
+20.0,77,160.0,Washington Wizards
+29.0,80,235.0,Denver Nuggets
+28.0,72,185.0,Houston Rockets
+25.0,78,215.0,Indiana Pacers
+26.0,77,190.0,Oklahoma City Thunder
+25.0,75,180.0,Oklahoma City Thunder
+23.0,81,245.0,Chicago Bulls
+22.0,82,235.0,Philadelphia 76ers
+22.0,77,190.0,Oklahoma City Thunder
+38.0,81,240.0,Boston Celtics
+33.0,77,214.0,Miami Heat
+31.0,77,186.0,Oklahoma City Thunder
+24.0,79,220.0,Oklahoma City Thunder
+31.0,84,250.0,Los Angeles Lakers
+25.0,81,245.0,Philadelphia 76ers
+19.0,84,205.0,Washington Wizards
+25.0,76,210.0,Detroit Pistons
+22.0,83,243.0,Houston Rockets
+22.0,79,200.0,Houston Rockets
+27.0,79,210.0,Los Angeles Clippers
+31.0,83,279.0,Philadelphia 76ers
+23.0,78,209.0,Milwaukee Bucks
+25.0,76,191.0,Indiana Pacers
+30.0,79,197.0,Miami Heat
+25.0,75,200.0,Portland Trail Blazers
+21.0,79,200.0,Orlando Magic
+32.0,82,253.0,Dallas Mavericks
+23.0,76,225.0,Minnesota Timberwolves
+32.0,80,230.0,Washington Wizards
+24.0,80,225.0,New York Knicks
+22.0,77,205.0,New Orleans Pelicans
+22.0,83,246.0,New York Knicks
+22.0,81,245.0,Los Angeles Lakers
+22.0,78,205.0,Detroit Pistons
+26.0,77,197.0,Los Angeles Lakers
+25.0,77,200.0,Chicago Bulls
+27.0,81,255.0,Miami Heat
+24.0,78,205.0,Boston Celtics
+23.0,78,190.0,Indiana Pacers
+28.0,82,240.0,Los Angeles Clippers
+22.0,77,210.0,Indiana Pacers
+20.0,80,195.0,Washington Wizards
+32.0,80,255.0,San Antonio Spurs
+22.0,75,185.0,San Antonio Spurs
+30.0,82,250.0,Milwaukee Bucks
+22.0,81,225.0,Detroit Pistons
+32.0,77,225.0,Los Angeles Clippers
+25.0,87,220.0,Phoenix Suns
+24.0,74,169.0,Minnesota Timberwolves
+31.0,76,207.0,Phoenix Suns
+25.0,84,220.0,Oklahoma City Thunder
+22.0,76,205.0,Golden State Warriors
+23.0,78,188.0,New Orleans Pelicans
+28.0,80,215.0,Memphis Grizzlies
+27.0,80,190.0,Toronto Raptors
+22.0,79,200.0,Charlotte Hornets
+25.0,73,190.0,Dallas Mavericks
+21.0,77,235.0,Utah Jazz
+20.0,75,210.0,Los Angeles Lakers
+36.0,85,282.0,Milwaukee Bucks
+28.0,76,202.0,New Orleans Pelicans
+26.0,81,240.0,Toronto Raptors
+22.0,78,190.0,Portland Trail Blazers
+19.0,76,190.0,Washington Wizards
+32.0,76,220.0,Golden State Warriors
+33.0,75,190.0,New Orleans Pelicans
+23.0,78,220.0,Detroit Pistons
+22.0,80,205.0,Orlando Magic
+29.0,77,205.0,Dallas Mavericks
+19.0,78,190.0,Los Angeles Clippers
+25.0,79,217.0,Los Angeles Lakers
+24.0,76,205.0,Memphis Grizzlies
+23.0,75,210.0,Brooklyn Nets
+20.0,79,230.0,Houston Rockets
+29.0,80,210.0,Brooklyn Nets
+30.0,75,183.0,New York Knicks
+30.0,78,205.0,Atlanta Hawks
+21.0,75,195.0,Oklahoma City Thunder
+24.0,82,230.0,San Antonio Spurs
+22.0,85,208.0,Oklahoma City Thunder
+32.0,81,200.0,Toronto Raptors
+27.0,77,190.0,Chicago Bulls
+21.0,78,220.0,Milwaukee Bucks
+39.0,72,175.0,San Antonio Spurs
+23.0,78,220.0,Denver Nuggets
+24.0,84,225.0,Los Angeles Lakers
+26.0,79,229.0,Philadelphia 76ers
+30.0,82,256.0,Atlanta Hawks
+25.0,77,195.0,Chicago Bulls
+29.0,78,205.0,Phoenix Suns
+20.0,79,190.0,Utah Jazz
+22.0,78,207.0,Washington Wizards
+24.0,74,185.0,Orlando Magic
+25.0,80,220.0,Toronto Raptors
+24.0,82,250.0,Toronto Raptors
+25.0,73,195.0,Phoenix Suns
+26.0,75,190.0,Utah Jazz
+26.0,78,224.0,Washington Wizards
+33.0,74,200.0,Orlando Magic
+25.0,73,180.0,Cleveland Cavaliers
+21.0,77,190.0,Brooklyn Nets
+29.0,75,193.0,Brooklyn Nets
+24.0,75,200.0,Toronto Raptors
+27.0,77,222.0,Charlotte Hornets
+26.0,78,216.0,Atlanta Hawks
+23.0,76,238.0,Minnesota Timberwolves
+25.0,80,203.0,Portland Trail Blazers
+22.0,79,195.0,Chicago Bulls
+23.0,78,215.0,Los Angeles Lakers
+34.0,74,195.0,Milwaukee Bucks
+24.0,76,194.0,Charlotte Hornets
+32.0,78,210.0,Phoenix Suns
+26.0,82,265.0,Dallas Mavericks
+32.0,80,245.0,New Orleans Pelicans
+23.0,75,165.0,Detroit Pistons
+29.0,77,214.0,Dallas Mavericks
+30.0,82,225.0,Denver Nuggets
+20.0,78,220.0,Brooklyn Nets
+25.0,73,192.0,Cleveland Cavaliers
+25.0,76,204.0,San Antonio Spurs
+24.0,76,255.0,Houston Rockets
+26.0,72,202.0,Miami Heat
+23.0,81,265.0,Brooklyn Nets
+27.0,75,185.0,San Antonio Spurs
+27.0,80,221.0,Cleveland Cavaliers
+26.0,75,200.0,Brooklyn Nets
+36.0,83,265.0,Denver Nuggets
+35.0,78,220.0,Sacramento Kings
+28.0,81,228.0,Cleveland Cavaliers
+26.0,84,252.0,Portland Trail Blazers
+28.0,76,180.0,New Orleans Pelicans
+32.0,77,185.0,New York Knicks
+24.0,81,240.0,Portland Trail Blazers
+31.0,73,175.0,Detroit Pistons
+21.0,85,230.0,Dallas Mavericks
+28.0,78,210.0,Los Angeles Clippers
+30.0,76,190.0,Boston Celtics
+26.0,77,215.0,Memphis Grizzlies
+28.0,78,206.0,Phoenix Suns
+23.0,74,195.0,Sacramento Kings
+24.0,77,200.0,San Antonio Spurs
+29.0,78,225.0,Houston Rockets
+23.0,77,235.0,Oklahoma City Thunder
+28.0,82,240.0,Sacramento Kings
+21.0,80,215.0,Atlanta Hawks
+21.0,86,280.0,Portland Trail Blazers
+28.0,75,215.0,Cleveland Cavaliers
+28.0,76,203.0,Minnesota Timberwolves
+31.0,79,220.0,Los Angeles Lakers
+33.0,78,225.0,Sacramento Kings
+35.0,78,230.0,Golden State Warriors
+28.0,82,245.0,Los Angeles Clippers
+25.0,81,205.0,Boston Celtics
+24.0,82,235.0,Brooklyn Nets
+27.0,74,203.0,Miami Heat
+30.0,79,215.0,Miami Heat
+28.0,81,245.0,Portland Trail Blazers
+33.0,82,240.0,Dallas Mavericks
+22.0,79,199.0,Atlanta Hawks
+24.0,78,240.0,Chicago Bulls
+31.0,75,195.0,New Orleans Pelicans
+25.0,75,195.0,Utah Jazz
+24.0,79,215.0,Chicago Bulls
+21.0,80,170.0,Cleveland Cavaliers
+24.0,79,220.0,Indiana Pacers
+36.0,75,215.0,Philadelphia 76ers
+23.0,83,215.0,Cleveland Cavaliers
+23.0,82,220.0,Orlando Magic
+31.0,72,197.0,Houston Rockets
+20.0,81,210.0,Memphis Grizzlies
+28.0,74,200.0,Los Angeles Lakers
+38.0,77,195.0,Toronto Raptors
+28.0,78,215.0,Atlanta Hawks
+30.0,76,210.0,Orlando Magic
+32.0,74,195.0,Golden State Warriors
+26.0,77,204.0,Milwaukee Bucks
+31.0,79,230.0,Atlanta Hawks
+30.0,83,243.0,Milwaukee Bucks
+25.0,82,250.0,Orlando Magic
+21.0,78,200.0,Toronto Raptors
+26.0,78,236.0,Charlotte Hornets
+29.0,76,198.0,Phoenix Suns
+29.0,80,265.0,Philadelphia 76ers
+22.0,78,185.0,Golden State Warriors
+32.0,80,225.0,San Antonio Spurs
+22.0,77,230.0,San Antonio Spurs
+28.0,77,220.0,Miami Heat
+26.0,79,206.0,New Orleans Pelicans
+24.0,80,215.0,Denver Nuggets
+25.0,74,190.0,Toronto Raptors
+24.0,81,245.0,Sacramento Kings
+24.0,77,225.0,Cleveland Cavaliers
+20.0,75,210.0,Utah Jazz
+23.0,78,220.0,Sacramento Kings
+26.0,84,250.0,Oklahoma City Thunder
+23.0,81,205.0,Indiana Pacers
+25.0,75,165.0,Oklahoma City Thunder
+23.0,80,250.0,Detroit Pistons
+24.0,75,185.0,Charlotte Hornets
+28.0,84,240.0,Los Angeles Clippers
+22.0,73,195.0,Boston Celtics
+22.0,81,203.0,Washington Wizards
+25.0,74,174.0,Memphis Grizzlies
+20.0,77,180.0,Toronto Raptors
+21.0,82,220.0,Houston Rockets
+22.0,79,237.0,Portland Trail Blazers
+28.0,80,215.0,Houston Rockets
+28.0,79,210.0,Golden State Warriors
+24.0,80,200.0,Atlanta Hawks
+22.0,75,198.0,Dallas Mavericks
+23.0,76,195.0,Detroit Pistons
+24.0,81,185.0,Minnesota Timberwolves
+22.0,76,202.0,Utah Jazz
+34.0,78,235.0,Sacramento Kings
+29.0,76,230.0,Houston Rockets
+29.0,82,270.0,Indiana Pacers
+24.0,73,185.0,Chicago Bulls
+24.0,78,225.0,Miami Heat
+23.0,79,235.0,Sacramento Kings
+29.0,84,260.0,Toronto Raptors
+23.0,80,225.0,Phoenix Suns
+28.0,74,190.0,New York Knicks
+21.0,82,250.0,Detroit Pistons
+23.0,76,186.0,Houston Rockets
+21.0,77,210.0,Philadelphia 76ers
+23.0,80,219.0,Atlanta Hawks
+27.0,81,190.0,Washington Wizards
+25.0,74,202.0,Denver Nuggets
+25.0,81,215.0,Chicago Bulls
+23.0,77,205.0,Orlando Magic
+23.0,77,211.0,Oklahoma City Thunder
+24.0,78,220.0,Brooklyn Nets
+26.0,78,191.0,New Orleans Pelicans
+28.0,76,215.0,Denver Nuggets
+22.0,73,200.0,Toronto Raptors
+25.0,74,180.0,Milwaukee Bucks
+35.0,77,220.0,Los Angeles Clippers
+38.0,79,240.0,Indiana Pacers
+23.0,83,240.0,Indiana Pacers
+23.0,79,220.0,Toronto Raptors
+21.0,79,235.0,Indiana Pacers
+24.0,75,193.0,Philadelphia 76ers
+21.0,75,195.0,Philadelphia 76ers
+25.0,77,210.0,Toronto Raptors
+25.0,82,242.0,Memphis Grizzlies
+25.0,80,214.0,Los Angeles Lakers
+26.0,81,243.0,Cleveland Cavaliers
+31.0,77,205.0,Cleveland Cavaliers
+24.0,84,220.0,Los Angeles Lakers
+27.0,85,240.0,Memphis Grizzlies
+28.0,78,223.0,Boston Celtics
+23.0,76,205.0,Minnesota Timberwolves
+21.0,78,216.0,Washington Wizards
+25.0,76,201.0,New Orleans Pelicans
+21.0,80,,Memphis Grizzlies
+22.0,81,240.0,Oklahoma City Thunder
+22.0,78,215.0,Cleveland Cavaliers
+27.0,80,210.0,Boston Celtics
+22.0,74,184.0,Dallas Mavericks
+27.0,75,177.0,Philadelphia 76ers
+38.0,80,235.0,Houston Rockets
+31.0,79,210.0,Portland Trail Blazers
+24.0,80,240.0,New Orleans Pelicans
+21.0,80,230.0,San Antonio Spurs
+26.0,82,250.0,Milwaukee Bucks
+25.0,84,236.0,Minnesota Timberwolves
+21.0,78,215.0,Orlando Magic
+29.0,73,200.0,Chicago Bulls
+35.0,79,230.0,Golden State Warriors
+29.0,83,255.0,Houston Rockets
+37.0,80,220.0,Minnesota Timberwolves
+31.0,84,280.0,Philadelphia 76ers
+27.0,81,226.0,Utah Jazz
+29.0,77,210.0,Memphis Grizzlies
+23.0,76,195.0,Washington Wizards
+20.0,81,200.0,Indiana Pacers
+24.0,77,226.0,Utah Jazz
+32.0,83,265.0,Sacramento Kings
+27.0,82,230.0,Orlando Magic
+22.0,79,225.0,Golden State Warriors
+23.0,81,225.0,Toronto Raptors
+32.0,75,194.0,Utah Jazz
+26.0,77,215.0,Los Angeles Lakers
+22.0,77,190.0,New Orleans Pelicans
+28.0,72,185.0,San Antonio Spurs
+25.0,77,194.0,Los Angeles Clippers
+25.0,76,194.0,Washington Wizards
+21.0,78,205.0,Boston Celtics
+26.0,72,179.0,New Orleans Pelicans
+23.0,76,215.0,Miami Heat
+22.0,80,216.0,Chicago Bulls
+24.0,77,200.0,Charlotte Hornets
+30.0,76,215.0,New York Knicks
+22.0,80,205.0,Minnesota Timberwolves
+26.0,76,213.0,Charlotte Hornets
+31.0,77,200.0,Miami Heat
+34.0,76,205.0,Boston Celtics
+23.0,79,217.0,San Antonio Spurs
+21.0,80,198.0,Chicago Bulls
+22.0,78,205.0,Denver Nuggets
+30.0,81,250.0,Minnesota Timberwolves
+23.0,78,206.0,Washington Wizards
+21.0,79,203.0,Philadelphia 76ers
+26.0,77,205.0,Portland Trail Blazers
+30.0,84,290.0,Charlotte Hornets
+24.0,78,215.0,Utah Jazz
+22.0,72,189.0,Charlotte Hornets
+24.0,83,221.0,Dallas Mavericks
+29.0,84,248.0,New York Knicks
+23.0,82,231.0,New Orleans Pelicans
+33.0,79,225.0,Los Angeles Clippers
+26.0,75,185.0,Atlanta Hawks
+24.0,80,225.0,Sacramento Kings
+24.0,79,210.0,New Orleans Pelicans
+20.0,84,230.0,Miami Heat
+25.0,77,220.0,San Antonio Spurs
+33.0,83,240.0,New Orleans Pelicans
+29.0,80,203.0,Philadelphia 76ers
+30.0,78,210.0,Oklahoma City Thunder
+32.0,77,204.0,Orlando Magic
+25.0,76,175.0,Sacramento Kings
+23.0,77,185.0,Brooklyn Nets
+23.0,79,225.0,Miami Heat
+24.0,79,203.0,Dallas Mavericks
+36.0,83,240.0,Phoenix Suns
+26.0,79,198.0,Chicago Bulls
+25.0,80,215.0,Golden State Warriors
+36.0,80,251.0,Miami Heat
+24.0,78,210.0,New York Knicks
+24.0,76,203.0,Milwaukee Bucks
+29.0,81,222.0,Golden State Warriors
+21.0,76,185.0,Utah Jazz
+33.0,79,222.0,Washington Wizards
+23.0,77,195.0,Brooklyn Nets
+35.0,77,220.0,Dallas Mavericks
+25.0,79,250.0,Los Angeles Clippers
+21.0,76,195.0,Atlanta Hawks
+31.0,75,205.0,Los Angeles Clippers
+24.0,80,216.0,Portland Trail Blazers
+29.0,86,240.0,Boston Celtics
+31.0,81,230.0,Miami Heat
+21.0,83,250.0,Utah Jazz
+29.0,81,221.0,Milwaukee Bucks
+39.0,72,196.0,Philadelphia 76ers
+27.0,84,230.0,Dallas Mavericks
+33.0,74,195.0,Dallas Mavericks
+21.0,80,200.0,Washington Wizards
+23.0,79,180.0,Charlotte Hornets
+27.0,79,230.0,Memphis Grizzlies
+28.0,76,190.0,New York Knicks
+32.0,80,245.0,Atlanta Hawks
+27.0,84,240.0,Utah Jazz
+40.0,81,250.0,Los Angeles Lakers
+21.0,82,220.0,Minnesota Timberwolves
+24.0,76,208.0,New Orleans Pelicans
+25.0,84,250.0,Milwaukee Bucks
+27.0,78,210.0,Detroit Pistons
+26.0,76,204.0,Philadelphia 76ers
+27.0,78,190.0,Chicago Bulls
+25.0,76,220.0,Oklahoma City Thunder
+26.0,78,230.0,Los Angeles Lakers
+26.0,82,243.0,Minnesota Timberwolves
+28.0,77,206.0,Memphis Grizzlies
+29.0,85,250.0,Boston Celtics
+23.0,79,207.0,Cleveland Cavaliers
+26.0,74,185.0,Orlando Magic
+26.0,73,185.0,Charlotte Hornets
+21.0,76,180.0,San Antonio Spurs
+32.0,76,229.0,Washington Wizards
+25.0,81,210.0,Oklahoma City Thunder
+28.0,76,187.0,Detroit Pistons
+27.0,75,200.0,Sacramento Kings
+24.0,79,199.0,New York Knicks
+23.0,78,217.0,Philadelphia 76ers
+26.0,77,205.0,Charlotte Hornets
+24.0,74,195.0,Detroit Pistons
+31.0,75,220.0,Washington Wizards
+23.0,84,240.0,Charlotte Hornets
+26.0,76,209.0,Sacramento Kings
+35.0,81,245.0,Los Angeles Lakers
+26.0,82,235.0,Memphis Grizzlies
+26.0,76,200.0,Sacramento Kings
+35.0,82,254.0,Phoenix Suns
+20.0,82,209.0,Chicago Bulls
+28.0,77,201.0,Portland Trail Blazers
+27.0,78,215.0,New York Knicks
+22.0,77,190.0,Dallas Mavericks
+29.0,77,215.0,Cleveland Cavaliers
+33.0,82,240.0,Los Angeles Lakers
+22.0,79,215.0,Brooklyn Nets
+26.0,81,248.0,Utah Jazz
+26.0,82,218.0,Denver Nuggets
+28.0,78,209.0,New York Knicks
+37.0,72,175.0,Minnesota Timberwolves
+27.0,79,225.0,Charlotte Hornets
+24.0,73,195.0,New York Knicks
+24.0,79,220.0,Boston Celtics
+26.0,84,240.0,New York Knicks
+26.0,84,231.0,New Orleans Pelicans
+29.0,74,183.0,Phoenix Suns
+27.0,83,245.0,Orlando Magic
+25.0,86,258.0,Dallas Mavericks
+22.0,77,211.0,Golden State Warriors
+22.0,82,210.0,Atlanta Hawks
+23.0,81,210.0,Charlotte Hornets
+29.0,83,250.0,Indiana Pacers
+23.0,83,230.0,Houston Rockets
+24.0,82,210.0,Cleveland Cavaliers
+27.0,78,220.0,Dallas Mavericks
+26.0,77,205.0,Houston Rockets
+25.0,81,264.0,Minnesota Timberwolves
+25.0,84,248.0,Boston Celtics
+25.0,83,215.0,Brooklyn Nets
+27.0,84,245.0,Phoenix Suns
+20.0,74,185.0,Charlotte Hornets
+26.0,77,205.0,Minnesota Timberwolves
+36.0,80,230.0,Los Angeles Clippers
+30.0,83,284.0,Denver Nuggets
+21.0,82,205.0,Miami Heat
+34.0,82,260.0,Chicago Bulls
+20.0,81,210.0,Brooklyn Nets
+31.0,76,215.0,Los Angeles Clippers
+27.0,79,240.0,New York Knicks
+27.0,81,220.0,Indiana Pacers
+24.0,77,215.0,Toronto Raptors
+22.0,79,230.0,Dallas Mavericks
+24.0,82,240.0,Atlanta Hawks
+24.0,82,235.0,Toronto Raptors
+25.0,80,255.0,Utah Jazz
+26.0,79,210.0,Philadelphia 76ers
+22.0,84,235.0,Phoenix Suns
+21.0,81,185.0,Oklahoma City Thunder
+39.0,77,245.0,New York Knicks
+26.0,78,230.0,Dallas Mavericks
+28.0,78,205.0,Minnesota Timberwolves
+23.0,82,245.0,Denver Nuggets
+19.0,80,210.0,New York Knicks
+22.0,82,250.0,Orlando Magic
+30.0,80,245.0,Indiana Pacers
+32.0,77,209.0,Milwaukee Bucks
+28.0,75,205.0,Golden State Warriors
+22.0,81,220.0,Los Angeles Clippers
+23.0,79,215.0,Chicago Bulls
+36.0,74,180.0,Los Angeles Clippers
+34.0,80,220.0,Philadelphia 76ers
+25.0,81,210.0,Detroit Pistons
+27.0,73,195.0,Boston Celtics
+24.0,77,215.0,Miami Heat
+25.0,82,225.0,Milwaukee Bucks
+22.0,79,200.0,Denver Nuggets
+22.0,80,185.0,Philadelphia 76ers
+25.0,80,243.0,New York Knicks
+24.0,76,210.0,Philadelphia 76ers
+26.0,77,173.0,Indiana Pacers
+23.0,75,200.0,Los Angeles Lakers
+25.0,84,238.0,Golden State Warriors
+24.0,78,214.0,Toronto Raptors
+23.0,74,180.0,Indiana Pacers
+20.0,78,195.0,Portland Trail Blazers
+23.0,75,190.0,Brooklyn Nets
+20.0,74,185.0,Houston Rockets
+34.0,74,208.0,Philadelphia 76ers
+31.0,81,235.0,Washington Wizards
+23.0,78,207.0,Philadelphia 76ers
+24.0,79,230.0,San Antonio Spurs
+20.0,75,175.0,Minnesota Timberwolves
+27.0,81,249.0,Portland Trail Blazers
+19.0,80,206.0,Detroit Pistons
+31.0,78,226.0,Phoenix Suns
+32.0,85,258.0,Minnesota Timberwolves
+27.0,80,230.0,Los Angeles Lakers
+36.0,76,200.0,Denver Nuggets
+22.0,80,216.0,Phoenix Suns
+22.0,75,180.0,Milwaukee Bucks
+27.0,79,217.0,Boston Celtics
+28.0,76,205.0,Cleveland Cavaliers
+25.0,81,240.0,San Antonio Spurs
+24.0,84,215.0,Memphis Grizzlies
+21.0,75,206.0,Portland Trail Blazers
+23.0,79,237.0,Toronto Raptors
+24.0,73,170.0,Memphis Grizzlies
+34.0,73,185.0,Charlotte Hornets
+21.0,77,208.0,Portland Trail Blazers
+26.0,78,195.0,Oklahoma City Thunder
+28.0,77,205.0,Los Angeles Lakers
+20.0,78,200.0,Portland Trail Blazers
+29.0,79,209.0,Detroit Pistons
+29.0,82,235.0,Sacramento Kings
+31.0,77,215.0,Dallas Mavericks
+23.0,79,225.0,Denver Nuggets
+25.0,78,210.0,Milwaukee Bucks
+37.0,74,185.0,Golden State Warriors
+20.0,78,215.0,San Antonio Spurs
+31.0,83,265.0,Houston Rockets
+27.0,79,205.0,Utah Jazz
+33.0,73,190.0,Indiana Pacers
+39.0,81,232.0,Charlotte Hornets
+24.0,76,234.0,Chicago Bulls
+23.0,80,215.0,Houston Rockets
+31.0,78,218.0,Milwaukee Bucks
+21.0,81,215.0,Utah Jazz
+26.0,77,195.0,Portland Trail Blazers
+28.0,77,215.0,Atlanta Hawks
+24.0,78,215.0,Minnesota Timberwolves
+31.0,73,190.0,Miami Heat
+25.0,76,230.0,Sacramento Kings
+27.0,82,248.0,Indiana Pacers
+19.0,80,207.0,Charlotte Hornets
+33.0,77,205.0,Detroit Pistons
+32.0,80,226.0,Detroit Pistons
+27.0,83,248.0,Indiana Pacers
+34.0,77,221.0,Boston Celtics
+24.0,79,217.0,Brooklyn Nets
+24.0,79,229.0,Portland Trail Blazers
+26.0,73,164.0,Atlanta Hawks
+25.0,81,245.0,Golden State Warriors
+25.0,73,185.0,Chicago Bulls
+24.0,75,178.0,Charlotte Hornets
+24.0,80,237.0,Brooklyn Nets
+20.0,81,185.0,Los Angeles Clippers
+28.0,77,190.0,Orlando Magic
+21.0,76,185.0,Denver Nuggets
+25.0,83,270.0,Los Angeles Lakers
+29.0,81,234.0,Sacramento Kings
+24.0,80,206.0,New Orleans Pelicans
+34.0,81,254.0,Cleveland Cavaliers
+22.0,84,220.0,Washington Wizards
+23.0,80,217.0,Orlando Magic
+23.0,77,190.0,Minnesota Timberwolves
+27.0,77,195.0,Cleveland Cavaliers
+23.0,75,195.0,Phoenix Suns
+25.0,77,195.0,Miami Heat
+24.0,75,195.0,New York Knicks
+20.0,81,224.0,Milwaukee Bucks
+25.0,77,185.0,Indiana Pacers
+26.0,78,215.0,Brooklyn Nets
+24.0,74,200.0,Philadelphia 76ers
+25.0,74,200.0,Brooklyn Nets
+28.0,73,196.0,Phoenix Suns
+19.0,83,235.0,Toronto Raptors
+31.0,75,188.0,Phoenix Suns
+21.0,87,235.0,San Antonio Spurs
+24.0,76,205.0,Memphis Grizzlies
+27.0,80,236.0,Denver Nuggets
+24.0,80,195.0,Atlanta Hawks
+23.0,84,245.0,Utah Jazz
+25.0,82,270.0,Orlando Magic
+23.0,77,215.0,Charlotte Hornets
+26.0,79,245.0,Boston Celtics
+23.0,68,159.0,Memphis Grizzlies
+24.0,72,190.0,Golden State Warriors
+20.0,83,235.0,New Orleans Pelicans
+19.0,80,200.0,Atlanta Hawks
+27.0,83,250.0,Chicago Bulls
+22.0,88,305.0,Memphis Grizzlies
+30.0,77,200.0,Sacramento Kings
+24.0,81,240.0,Denver Nuggets
+23.0,81,185.0,Brooklyn Nets
+24.0,78,284.0,New Orleans Pelicans
+24.0,76,206.0,Memphis Grizzlies
